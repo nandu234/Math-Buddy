@@ -53,7 +53,7 @@ function updateScore() {
 }
 
 function updateTimer() {
-    timerDisplay.textContent = timeleft;
+    timerDisplay.textContent = timeLeft;
 }
 
 function startGame() {
